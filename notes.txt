@@ -1,0 +1,15 @@
+Project Notes
+=============
+
+Created: 2026-08-25
+Owner: Sachin Singh
+
+Purpose
+-------
+Scratch notes file for the Repository-Descriptor-Agent project.
+
+Items
+-----
+- Repository initialized with a README.
+- This file is added on the feature/add-notes-file branch.
+- Update this file as project decisions are made.
